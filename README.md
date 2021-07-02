@@ -28,10 +28,10 @@
 ✔ Pronouns: ***He/His*** or ***TeamMaker***😉 <br>
 ✔ I’m currently learning **ReactJS** & **NodeJS**<br>
 ✔ I’m looking to collaborate with any **Open - Source contribution**<br>
-✔ I regularly write articles on [GeeksforGeeks](https://auth.geeksforgeeks.org/user/akash_chowrasia/articles) <br>
+✔ I regularly write articles on [GeeksforGeeks](https://auth.geeksforgeeks.org/user/danf7861/articles) <br>
 ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br><br><br>
  
-### :gear: My skills include:
+### :gear: ***My skills include:***
 
 - **Languages**: `C`, `C++`, `Python`, `JavaScript`
 
@@ -48,23 +48,22 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools I Know...***
 <p align="left">
-  <code><img height="50" src="https://github.com/DaniyalFarooque/DaniyalFarooque/blob/master/Assets/python-icon.svg"></code><code> 
-  <code> <img height="50" src="https://github.com/DaniyalFarooque/DaniyalFarooque/blob/master/Assets//jp.svg"> </code>
+  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> </code>
+  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"> </code>
   <code> <img height="50" src="https://github.com/DaniyalFarooque/DaniyalFarooque/blob/master/Assets//git.svg"> </code>
   <code> <img height="50" src="https://github.com/DaniyalFarooque/DaniyalFarooque/blob/master/Assets//linux-ar21.svg"> </code>
   <code> <img height="50" src="https://github.com/DaniyalFarooque/DaniyalFarooque/blob/master/Assets//mongodb-ar21.svg"> </code>
   <code> <img height="50" src="https://github.com/DaniyalFarooque/DaniyalFarooque/blob/master/Assets//sqlite-ar21.svg"> </code>
   <code> <img height="50" src="https://github.com/DaniyalFarooque/DaniyalFarooque/blob/master/Assets//mysql-ar21.svg"> </code>
-  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> </code>
-  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"> </code>
+  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> </code>
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"> </code>
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"> </code>
-  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> </code>
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"> </code>
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"> </code>
-  <!-- <img height="50" src="https://github.com/DaniyalFarooque/DaniyalFarooque/blob/master/Assets/dj.svg"> </code> -->
-  <!-- <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"> </code> -->
-  <!-- <code> <img height="50" src="  https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg"> </code> -->
+  <code> <img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/visualstudiocode.svg"> </code>
+  <code> <img height="50" src="https://github.com/DaniyalFarooque/DaniyalFarooque/blob/master/Assets/python-icon.svg"> </code> 
+  <code> <img height="50" src="https://github.com/DaniyalFarooque/DaniyalFarooque/blob/master/Assets//jp.svg"> </code>
+  <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg"> </code>
 </p>
 
 <hr>
@@ -77,6 +76,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniyalFarooque&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/DaniyalFarooque)
 
-### :hugs: Thank You!
+### 🤗 Thank You!
 
-Thank you so much for visiting my tiny space on [GitHub](https://github.com/DaniyalFarooque/DaniyalFarooque)! :v:
+Thank you so much for visiting my tiny space on [GitHub](https://github.com/DaniyalFarooque/DaniyalFarooque)! ✌️
