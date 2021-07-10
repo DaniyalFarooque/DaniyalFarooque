@@ -47,15 +47,17 @@
 <br>
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools I Know...***
-<p align="left">
+<p align="center">
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> </code>
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"> </code>
   <code> <img height="50" src="https://github.com/DaniyalFarooque/DaniyalFarooque/blob/master/Assets//git.svg"> </code>
   <code> <img height="50" src="https://github.com/DaniyalFarooque/DaniyalFarooque/blob/master/Assets//linux-ar21.svg"> </code>
-  <code> <img height="50" src="https://github.com/DaniyalFarooque/DaniyalFarooque/blob/master/Assets//mongodb-ar21.svg"> </code>
-  <code> <img height="50" src="https://github.com/DaniyalFarooque/DaniyalFarooque/blob/master/Assets//sqlite-ar21.svg"> </code>
   <code> <img height="50" src="https://github.com/DaniyalFarooque/DaniyalFarooque/blob/master/Assets//mysql-ar21.svg"> </code>
+  <code> <img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/firebase.svg"> </code>
+  <code> <img height="50" src="https://github.com/DaniyalFarooque/DaniyalFarooque/blob/master/Assets//mongodb-ar21.svg"> </code>
+  <code> <img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/php.svg"> </code>
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> </code>
+  <code> <img height="50" src="https://github.com/DaniyalFarooque/DaniyalFarooque/blob/master/Assets//html5.svg"> </code>
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"> </code>
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"> </code>
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"> </code>
@@ -72,9 +74,13 @@
   <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>
 </p>
 
-[![Daniyal's Github stats](https://github-readme-stats.vercel.app/api?username=DaniyalFarooque&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true)](https://github.com/DaniyalFarooque/)
+<span align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniyalFarooque&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/DaniyalFarooque)
+[![Daniyal's Github stats](https://github-readme-stats.vercel.app/api?username=DaniyalFarooque&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true)](https://github.com/DaniyalFarooque/)
+</span>
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniyalFarooque&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/DaniyalFarooque) -->
+
 
 ### 🤗 Thank You!
 
