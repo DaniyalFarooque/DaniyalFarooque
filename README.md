@@ -84,4 +84,4 @@
 
 ### 🤗 Thank You!
 
-Thank you so much for visiting my tiny space on [GitHub](https://github.com/DaniyalFarooque/DaniyalFarooque)! ✌️
+Thank you so much for visiting my tiny space on [GitHub](https://github.com/DaniyalFarooque?tab=repositories)! ✌️
