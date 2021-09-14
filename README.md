@@ -1,4 +1,3 @@
-<hr>
 <h1 align="center">Hi <img src="https://github.com/DaniyalFarooque/DaniyalFarooque/blob/master/Assets/Hi.gif" width="30px">, I'm Daniyal Farooque</h1>
 <h3 align="center">Software Engineer | Technical Content Writer | Data Analysis Enthusiast</h3>
 <p align="center">
@@ -23,7 +22,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DaniyalFarooque&label=Profile%20views&color=0e75b6&style=flat" alt="DaniyalFarooque" /> </p>
 <img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
+<hr>
+
+<details>
+  <summary>
+    <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
+  </summary>
 
 ✔ Pronouns: ***He/His*** or ***TeamMaker***😉 <br>
 ✔ I’m currently learning **ReactJS** & **NodeJS**<br>
@@ -31,8 +35,12 @@
 ✔ I regularly write articles on [GeeksforGeeks](https://auth.geeksforgeeks.org/user/danf7861/articles) <br>
 ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br><br><br>
  
-### :gear: ***My skills include:***
+</details>
 
+<details>
+  <summary>
+    ### :gear: ***My skills include:***
+  </summary>
 - **Languages**: `C`, `C++`, `Python`, `JavaScript`
 
 - **Frontend**: `React`, `Redux`
@@ -44,9 +52,14 @@
 <!-- - **Testing frameworks**: `Selenium`, `Jmeter`, `Locust` -->
 
 <!-- - **Technical Practices**:  -->
+</details>
+
 <br>
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools I Know...***
+<details>
+  <summary>
+    <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools I Know...***
+  </summary>
 <p align="center">
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> </code>
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"> </code>
