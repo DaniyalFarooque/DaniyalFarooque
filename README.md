@@ -86,9 +86,11 @@
 <hr>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;
+<!-- <iframe src="https://giphy.com/embed/jO1l9K74yffSKDPW9P" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="">via GIPHY</a></p> -->
+
+  <img src="https://media.giphy.com/media/jO1l9K74yffSKDPW9P/giphy.gif?cid=ecf05e47k64aiyknyzvv8vi04nzgu21zm2uu7n1bre5b8dpg&rid=giphy.gif&ct=s" width="30px" alt="GitHub-Status"/>&nbsp;
   <i><strong>GitHub Stats</strong></i>
-  <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>
+  <img src="https://media.giphy.com/media/jO1l9K74yffSKDPW9P/giphy.gif?cid=ecf05e47k64aiyknyzvv8vi04nzgu21zm2uu7n1bre5b8dpg&rid=giphy.gif&ct=s" width="30px" alt="GitHub-Status"/>&nbsp;
 </p>
 
 <span align="center">
