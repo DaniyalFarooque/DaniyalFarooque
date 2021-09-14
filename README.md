@@ -34,8 +34,7 @@
 ✔ I’m currently learning **ReactJS** & **NodeJS**<br>
 ✔ I’m looking to collaborate with any **Open - Source contribution**<br>
 ✔ I regularly write articles on [GeeksforGeeks](https://auth.geeksforgeeks.org/user/danf7861/articles) <br>
-✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br><br><br>
- 
+✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 </details>
 
 <details>
