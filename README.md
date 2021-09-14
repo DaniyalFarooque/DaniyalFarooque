@@ -26,7 +26,8 @@
 
 <details>
   <summary>
-    <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
+    <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;
+    <i><strong>Talking about Personal Stuffs...</strong></i>
   </summary>
 
 ✔ Pronouns: ***He/His*** or ***TeamMaker***😉 <br>
@@ -39,8 +40,9 @@
 
 <details>
   <summary>
-    ### :gear: ***My skills include:***
+    <i><strong>:gear: My skills include:</strong></i>
   </summary>
+
 - **Languages**: `C`, `C++`, `Python`, `JavaScript`
 
 - **Frontend**: `React`, `Redux`
@@ -58,7 +60,8 @@
 
 <details>
   <summary>
-    <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools I Know...***
+    <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;
+    <i><strong>Languages & Tools I Know...</strong></i>
   </summary>
 <p align="center">
   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> </code>
@@ -80,11 +83,14 @@
   <code> <img height="50" src="https://github.com/DaniyalFarooque/DaniyalFarooque/blob/master/Assets//jp.svg"> </code>
   <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg"> </code>
 </p>
+</details>
 
 <hr>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>
+  <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;
+  <i><strong>GitHub Stats</strong></i>
+  <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>
 </p>
 
 <span align="center">
